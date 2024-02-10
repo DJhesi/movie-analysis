@@ -127,18 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-<<<<<<< HEAD
-
-#im.db database
-<<<<<<< HEAD
-zippedData/im.db.zip
-<<<<<<< HEAD
-notebooks/im.db
-=======
-notebooks/im.db
->>>>>>> 2bcdb6ebf746beb6d35ba535a8c22c7d3d92a8fb
-=======
-/zippedData/im.db
->>>>>>> 9bc93d3aca9e4d1d02161781e70eaf3f05097089
-=======
->>>>>>> origin/main
