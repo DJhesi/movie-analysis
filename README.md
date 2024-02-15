@@ -24,7 +24,7 @@ This project uses descriptive analysis. This will provide a useful overview of h
 
 ## Results
 
-The analysis highlights that Animation emerges as the most profitable genre, leading both in domestic and worldwide profit with an average of approximately $3.2 million and $2.5 million, respectively. Following closely behind is the musical genre, ranking third in domestic profit at around $2.5 million. This data strongly suggests that producing animation musicals, akin to successful films like Frozen and Moana, presents a promising opportunity for achieving success and profitability in the movie industry.
+The analysis highlights that Animation emerges as the most profitable genre, leading both in domestic and worldwide profit with an average of approximately $32 million and $25 million, respectively. Following closely behind is the musical genre, ranking third in domestic profit at around $25 million. This data strongly suggests that producing animation musicals, akin to successful films like Frozen and Moana, presents a promising opportunity for achieving success and profitability in the movie industry.
 
 ![Profit_Genre](./images/genre_profits.jpg)
 
@@ -37,9 +37,6 @@ Cinco Paul and Ken Daurio, known for their collaborative work in writing, have c
 Chris Renaud and Pierre Coffin, both renowned directors in the realm of music/animation films, have each helmed three of the top 10 highest-grossing movies domestically within the genre. Chris Renaud directed The Secret Life of Pets, Despicable Me, and Despicable Me 2, collectively amassing a domestic profit of $767,963,700.00. On the other hand, Pierre Coffin directed Despicable Me, Despicable Me 2, and Despicable Me 3, generating a domestic profit of $664,203,670.00. Their combined contributions to these beloved animated features underscore their expertise and success in captivating audiences, making them formidable choices for directing projects in the music/animation genre.
 
 ![Profit_WD](./images/writer_director_profits.jpg)
-
-These visuals can be viewed [here](https://public.tableau.com/views/AviationIncidentAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) on our interactive Tablaue dashboard.
-
 
 ## Conclusion
 
@@ -66,6 +63,7 @@ See the full analysis in the [Jupyter Notebook](./movie_analysis.ipynb) or revie
 
 ```
 ├── images
+├── notebooks
 ├── zippedData
 ├── README.md
 ├── movie_analysis_presentation.pdf
